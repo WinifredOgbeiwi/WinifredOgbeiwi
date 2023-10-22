@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **imadeogbeiwi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eHRNad23n7qYfpRfIMxapWvH3-uca8RI/view?usp=sharing](https://drive.google.com/file/d/1eHRNad23n7qYfpRfIMxapWvH3-uca8RI/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1eHRNad23n7qYfpRfIMxapWvH3-uca8RI/view?usp=sharing)
 
 - ⚡ Weird fact **I love staying indoors**
 
