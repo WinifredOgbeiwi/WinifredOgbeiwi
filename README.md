@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Firma](https://firma.ink/)
 
-- 🌱 I’m currently learning **Expressjs**
+- 🌱 I’m currently learning **Data Structure and Alogorithm**
 
 - 👨‍💻 All of my projects are available at [https://winifredogbeiwi.netlify.app/](https://winifredogbeiwi.netlify.app/)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **imadeogbeiwi@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/1eHRNad23n7qYfpRfIMxapWvH3-uca8RI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11M3UketATaDuhpUVf6R0ipSAiyrfuRKi/view?usp=sharing) 
 
 - ⚡ Weird fact **I love staying indoors**
 
