@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winifred Imade Ogbeiwi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Winnie" width="300" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&uid=R81818668&ga=GA1.2.1081064923.1696895469&semt=ais">
+<img align="right" alt="Winnie" width="300" src="https://www.canva.com/design/DAGWd6mTlAk/Qpx1ESgK2ps9_Jx0CJ7HKQ/watch">
+  //src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149375793.jpg?size=626&ext=jpg&uid=R81818668&ga=GA1.2.1081064923.1696895469&semt=ais">
 
 <p align="left"> <a href="https://twitter.com/winifredogbeiwi" target="blank"><img src="https://img.shields.io/twitter/follow/winifredogbeiwi?logo=twitter&style=for-the-badge" alt="winifredogbeiwi" /></a> </p>
 
