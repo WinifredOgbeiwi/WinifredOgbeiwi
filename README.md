@@ -1,27 +1,94 @@
-<h1 align="center">Hi 👋, I'm Winifred Imade Ogbeiwi</h1>
+<h1 align="center">Hi, I'm Winifred Imade Ogbeiwi 👋</h1>
 
+<h3 align="center">
+Full Stack Developer | JavaScript • Python • React • SQL
+</h3>
 
-- 🌱 I’m currently learning **Data Structure and Alogorithm**
-
-- 👨‍💻 All of my projects are available at [https://winifredogbeiwi.netlify.app/](https://winifredogbeiwi.netlify.app/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **imadeogbeiwi@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/winifredogbeiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winifredogbeiwi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/winifred ogbeiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winifred ogbeiwi" height="30" width="40" /></a>
+<p align="center">
+I'm a Full Stack Developer with experience building modern web applications using JavaScript, React, Node.js, and SQL. I'm currently expanding my backend expertise with Python, FastAPI, PostgreSQL, and software engineering best practices while pursuing a degree in Computer Engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+## 👩‍💻 About Me
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+- 💻 Full Stack Developer with experience building responsive web applications and REST APIs
+- 🌱 Currently focused on **Python, FastAPI, PostgreSQL, Docker, and Data Structures & Algorithms**
+- 📚 Computer Engineering student at Vistula University
+- 🚀 Passionate about building software that improves business processes and user experience
 
+---
 
+## 🔨 Current Focus
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=winifredogbeiwi" alt="winifredogbeiwi" /></a> </p>
+- Building backend services with **FastAPI**
+- Strengthening **SQL** and database design
+- Practicing **Data Structures & Algorithms**
+- Learning **Docker** and **CI/CD**
+- Developing full-stack applications with **React + Python**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+### Data & Testing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 Full Stack Applications
+- 📊 Data-Driven Projects
+- 🔗 REST APIs
+- 🤖 Automation Tools
+- 💡 Personal Experiments
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** imadeogbeiwi@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/winifred-ogbeiwi
+
+🌐 **Portfolio:** https://winifredogbeiwi.netlify.app
+
+🐦 **Twitter/X:** https://twitter.com/winifredogbeiwi
