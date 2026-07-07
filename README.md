@@ -89,6 +89,6 @@ I'm a Full Stack Developer with experience building modern web applications usin
 
 💼 **LinkedIn:** https://linkedin.com/in/winifred-ogbeiwi
 
-🌐 **Portfolio:** https://winifredogbeiwi.netlify.app
+🌐 **Portfolio:** https://winifred-ogbeiwi-portfolio.vercel.app/
 
 🐦 **Twitter/X:** https://twitter.com/winifredogbeiwi
